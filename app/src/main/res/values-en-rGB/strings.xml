@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NatuZaragoza</string>
+    <string name="mapa">Map</string>
+    <string name="filtrar">Filter</string>
+    <string name="ver">See</string>
+    <string name="add_coment">Edit comment</string>
+    <string name="delete">Delete</string>
+    <string name="comment">Comment</string>
+    <string name="comment_hint">Max 50 characters</string>
+    <string name="aceptar">Accept</string>
+    <string name="addVistos">Seen</string>
+    <string name="imagen">Tree</string>
+</resources>

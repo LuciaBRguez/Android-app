@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NatuZaragoza</string>
+    <string name="mapa">Mapa</string>
+    <string name="filtrar">Filtrar</string>
+    <string name="ver">Ver</string>
+    <string name="add_coment">Editar comentario</string>
+    <string name="delete">Borrar</string>
+    <string name="comment">Comentario</string>
+    <string name="comment_hint">Máx 50 caracteres</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="addVistos">Visto</string>
+    <string name="title_activity_maps" translatable="false">Mapa</string>
+    <string name="imagen">Arbol</string>
+</resources>
